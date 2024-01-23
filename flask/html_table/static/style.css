@@ -1,0 +1,18 @@
+.flex-item {
+    height: 20vh;
+    width: 20vh;
+    border: 3px;
+    border-color:black;
+    border-radius: 10px;
+    transition:200ms;
+}
+
+
+.dflex{
+    display:flex;
+    width:80vw;
+    margin: 0 auto;
+    padding: 20px;
+    gap: 10px;
+    background-color:blanchedalmond;
+}

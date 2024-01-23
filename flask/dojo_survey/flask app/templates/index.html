@@ -1,0 +1,37 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <form action="/result" method="post">
+        <label for="your_name">Your Name:</label>
+        <input type="text" name="your_name">
+        <p>Dojo Locations:</p>
+        <select name="location">
+            <option value="San Jose">San Jose</option>
+            <option value="Washington DC">Washington DC</option>
+            <option value="Seattle WA">Seattle WA</option>
+            <option value="Remote">Remote</option>
+        </select>
+        <p>Favorite Language:</p>
+        <select name="language">
+            <option value="Python">Python</option>
+            <option value="Javascript">Javascript</option>
+            <option value="R">R</option>
+            <p>Your Choice {{session['language']}}</p>
+        </select>
+        <p>Comment (optional):</p>
+        <textarea name="comment"></textarea>
+        <input type="submit" value="Button">
+    </form>
+</body>
+
+</html>
+<!-- 
+<h1>Dojo Survey</h1>
+<h3>{{session['name']}}</h3>
+<h3>{{session['location']}}</h3>
+<h3>{{session['language']}}</h3>
+<h3>{{session['comment']}}</h3> -->

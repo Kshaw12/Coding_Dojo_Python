@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c807a85-7ac6-4a8e-9163-9825e78ab250" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hello_world/hello_world2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_world2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screen_shots/newScreenshot 2024-01-05 195749.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2abOc9T0S89WwTkNEOdtpQHa0sX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.hello_world.executor": "Run",
+    "Python.hello_world2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/12ktm/OneDrive/Desktop/Python/fundamentals/introduction/hello_world"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\12ktm\OneDrive\Desktop\Python\fundamentals\introduction\hello_world" />
+      <recent name="C:\Users\12ktm\OneDrive\Desktop\Python\fundamentals\introduction\recognize_python" />
+      <recent name="C:\Users\12ktm\OneDrive\Desktop\Python\fundamentals\introduction\recognize_python\" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c807a85-7ac6-4a8e-9163-9825e78ab250" name="Changes" comment="" />
+      <created>1704583888417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704583888417</updated>
+    </task>
+    <servers />
+  </component>
+</project>
